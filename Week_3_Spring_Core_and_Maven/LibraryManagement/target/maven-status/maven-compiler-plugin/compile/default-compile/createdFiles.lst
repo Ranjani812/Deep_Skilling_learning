@@ -1,3 +1,4 @@
-com/library/MainApp.class
-com/library/config/SpringConfig.class
-com/library/service/BookService.class
+com/library/entity/Book.class
+com/library/controller/BookController.class
+com/library/LibraryManagementApplication.class
+com/library/repository/BookRepository.class
